@@ -1,0 +1,8 @@
+name: GameEmulatorPro
+markdown: redcarpet
+pygments: true
+category-list: [features]
+permalink: pretty
+baseurl: http://gameemulatorpro.github.io/
+gems:
+ - jekyll-redirect-from
